@@ -1,8 +1,8 @@
 # sparkleOS ✨
 
-right now this is just a simple "hello world" bootloader that stays in real mode
+right now this is just a simple "hello world" bootloader that goes into protected mode and draws a pixel
 
-![boot screenshot](screenshots/boot.png)
+![boot screenshot](screenshots/boot_protected.png)
 
 ## requirements
 
@@ -36,7 +36,9 @@ TBD using fdisk/dd
 
 # what to dooooo next
 
-* [ ] protected mode
+* [x] protected mode
+* [x] draw a pixel
+* [ ] draw sparkles
 * [ ] long mode
+* [ ] kernel
 * …
-* [ ] kernel? video?? we'll see
