@@ -33,3 +33,10 @@ make run
 ## make a bootable usb disk
 
 TBD using fdisk/dd
+
+# what to dooooo next
+
+* [ ] protected mode
+* [ ] long mode
+* …
+* [ ] kernel? video?? we'll see
